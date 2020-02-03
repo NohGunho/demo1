@@ -1,0 +1,12 @@
+import React from "react";
+import AuthTemplate from './AuthTemplate';
+import LoginForm from './LoginForm';
+
+export default function AuthPage() {
+  console.log("authPage");
+  return (
+    <AuthTemplate>
+      <LoginForm />
+    </AuthTemplate>
+  );
+}
