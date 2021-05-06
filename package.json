@@ -54,7 +54,7 @@
     "downshift": "^3.4.2",
     "fg-loadcss": "^2.1.0",
     "formik": "^2.0.6",
-    "highcharts": "^8.0.0",
+    "highcharts": "^9.0.0",
     "highcharts-drilldown": "^0.1.7",
     "immer": "^5.3.2",
     "json2mq": "^0.2.0",
